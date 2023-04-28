@@ -6,7 +6,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 
 class loginScreen extends StatefulWidget {
-  const loginScreen({super.key});
+  // const loginScreen({super.key});
 
   @override
   State<loginScreen> createState() => _loginScreenState();
